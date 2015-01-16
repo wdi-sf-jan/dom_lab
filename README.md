@@ -28,7 +28,7 @@ In `app.js`, write the necessary JavaScript to:
 
 3. add the class of `selected` to an `<li>` when it is clicked.
 
-4. change the image to be the last clicked food item.
+4. change the image to be the most recently clicked food item.
 
 5. clicking the reset button should remove the `selected` class from
   each `<li>` and change the image to `panic.jpeg`.
